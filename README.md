@@ -1,2 +1,4 @@
 # CTFWriteups2024
-writeups for 2024
+NewYearCTF 2024 - grodno{flag}
+
+
