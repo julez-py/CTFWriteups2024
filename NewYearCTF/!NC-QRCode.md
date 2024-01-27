@@ -1,10 +1,10 @@
 # NC QRCode
 
 When we connect to the host, we see that we receive a string. 
-![img2](NewYearCTF/images/qr2.png)
+![img2](images/qr2.png)
 This is base64, and it is actually an image (iVBOR is base64 header for PNG). Just testing it out converting that base64 string to Image, we get a sample QR Code like this:
 
-![img1](NewYearCTF/images/qr1.png)
+![img1](images/qr1.png)
 
 So we need to decode 40+ QR Codes with automation so my process was
 
